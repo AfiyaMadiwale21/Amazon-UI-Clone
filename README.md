@@ -25,3 +25,5 @@ This is a static clone of the Amazon homepage built using HTML and CSS.
 📸My Project Preview
 
 ![Amazon UI Preview](./project.png)
+⭐️ If you like this project, please star the repository!
+
