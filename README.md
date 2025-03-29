@@ -14,6 +14,7 @@ This is a static clone of the Amazon homepage built using HTML and CSS.
 ---
 
 🎯Key Features
+
 ✅ Clean and structured homepage layout  
 ✅ Navigation bar with multiple categories  
 ✅ Product grid with multiple sections  
@@ -22,4 +23,5 @@ This is a static clone of the Amazon homepage built using HTML and CSS.
 ---
 
 📸My Project Preview
+
 ![Amazon UI Preview](./project.png)
