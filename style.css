@@ -1,0 +1,264 @@
+* {
+    margin: 0;
+    border: border-box;
+    font-family: Arial;
+}
+
+#navbar {
+    background-color: #0f1111;
+    height: 60px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.nav-logo {
+    width: 100px;
+    height: 50px;
+}
+
+.border {
+    border: 1px solid transparent;
+}
+
+.border:hover {
+    border: 1px solid white;
+}
+
+#logo {
+    height: 50px;
+    width: 100px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwKfjWCuXBwwrk5fC9Vy4Fx-o3GWaoeYapcQ&s");
+    background-size: cover;
+}
+
+.first {
+    font-size: x-small;
+    color: #cccccc;
+    margin-left: 10px;
+}
+
+.add-icon {
+    display: flex;
+}
+
+.nav-address {
+    height: 40px;
+    width: 60px;
+    margin: 15px;
+}
+
+.nav-search {
+    display: flex;
+    background-color: rgb(221, 158, 23);
+    width: 550px;
+    height: 30px;
+    border-radius: 4px;
+}
+
+.nav-search:hover {
+    border: 3px solid rgb(221, 158, 23)
+}
+
+.all {
+    background-color: #f3f3f3;
+    width: 40px;
+    text-align: center;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+}
+
+.nav-search input {
+    width: 100%;
+}
+
+.icon {
+    width: 35px;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hello {
+    width: 100px;
+}
+
+span {
+    font-size: x-small;
+}
+
+.acc {
+    font-size: small;
+}
+
+.return {
+    width: 60px;
+}
+
+.order {
+    font-size: small;
+}
+
+.cart i {
+    font-size: 20px;
+}
+
+.cart {
+    font-size: x-small;
+}
+
+.panel {
+    height: 40px;
+    display: flex;
+    align-items: center;
+    background-color: #222f3d;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+
+.panel-icon border {
+    height: auto;
+}
+
+.option p {
+    display: inline;
+    font-size: small;
+    margin-left: 10px;
+}
+
+.option {
+    width: 70%;
+}
+
+.deals {
+    font-size: small;
+    font-weight: 500;
+}
+
+.deals border {
+    height: auto;
+    width: 100px;
+}
+
+.hero-section {
+    background-image: url("amazon.jpg");
+    height: 300px;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.hero-msg {
+    background-color: white;
+    width: 75%;
+    height: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: small;
+}
+
+.hero-msg a {
+    color: blue;
+    text-decoration: none;
+}
+
+.shop-section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: #e2e7e6;
+}
+
+.box {
+    height: 260px;
+    border: 2px solid black;
+    width: 23%;
+    background-color: white;
+    padding-top: 15px;
+    margin-top: 10px;
+}
+
+.box-img {
+    height: 200px;
+    background-size: cover;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#box-content {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+#box-content p {
+    color: blue;
+    font-size: small;
+}
+
+footer {
+    margin-top: 25px;
+}
+
+.foot-panel a {
+    background-color: #37475a;
+    color: white;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: small;
+    text-decoration: none;
+}
+
+.foot-panel2 {
+    background-color: #222f3d;
+    color: white;
+    height: 250px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+ul {
+    margin-top: 20px;
+}
+
+ul a {
+    display: block;
+    font-size: x-small;
+    margin-top: 10px;
+    color: #dddddd;
+}
+
+.foot-panel3 {
+    background-color: #222f3d;
+    color: white;
+    border-top: 0.5px solid white;
+    height: 65px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwKfjWCuXBwwrk5fC9Vy4Fx-o3GWaoeYapcQ&s");
+    background-size: cover;
+    height: 50px;
+    width: 100px;
+}
+
+.foot-panel4 {
+    background-color: #0f1111;
+    color: white;
+    height: 70px;
+    font-size: x-small;
+    text-align: center;
+}
+
+.last {
+    padding-top: 20px;
+}
