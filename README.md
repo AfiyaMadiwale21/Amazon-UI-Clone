@@ -24,9 +24,3 @@ This is a static clone of the Amazon homepage built using HTML and CSS.
 ✅ Responsive header and footer  
 ✅ Product grid with multiple sections  
 ✅ Footer section with links and info  
-
----
-## 🛠️ **How to Run the Project**
-1. **Download or Clone the Repository:**
-```bash
-git clone https://github.com/your-username/Amazon-UI-Clone.git
