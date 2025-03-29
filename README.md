@@ -5,11 +5,6 @@ This is a static clone of the Amazon homepage built using HTML and CSS.
 
 ---
 
-📸My Project Preview
-![Amazon UI Preview](./project.png)
-
----
-
 🚀Technologies Used
 - HTML
 - CSS3 (Flexbox & Grid)
@@ -21,6 +16,10 @@ This is a static clone of the Amazon homepage built using HTML and CSS.
 🎯Key Features
 ✅ Clean and structured homepage layout  
 ✅ Navigation bar with multiple categories  
-✅ Responsive header and footer  
 ✅ Product grid with multiple sections  
 ✅ Footer section with links and info  
+
+---
+
+📸My Project Preview
+![Amazon UI Preview](./project.png)
